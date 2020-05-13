@@ -1,2 +1,2 @@
 # particle-background
- javascript [artical background
+ javascript partical background
